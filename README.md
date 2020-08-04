@@ -38,4 +38,4 @@
 
 [website]: https://oddmagnet.github.io/
 [twitter]: https://twitter.com/OddMagnetDev
-[mail]: oddmagnetdev@gmail.com
+[mail]: mailto:oddmagnetdev@gmail.com
