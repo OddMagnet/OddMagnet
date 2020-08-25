@@ -44,10 +44,9 @@
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/freecodecamp.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/stackoverflow.svg" />
 ![Hacking with Swift](https://github.com/OddMagnet/OddMagnet/blob/master/icons/hacking-with-swift.png)
-![Apple Developer Forums](https://github.com/OddMagnet/OddMagnet/blob/master/icons/appledevforums.png)
+![Apple Developer Forums](https://github.com/OddMagnet/OddMagnet/blob/master/icons/appledevforums.png) 
 
-<br />
-<br />
+<br>
 
 ---
 
