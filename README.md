@@ -32,7 +32,7 @@
 <img height="32" width="32" src="icons/node-dot-js.svg" />
 
 **Tools**
-<img height="32" width="32" src="icons/atom.svg" />
+<img height="32" width="32" src="[icons]/atom.svg" />
 <img height="32" width="32" src="icons/visualstudiocode.svg" />
 <img height="32" width="32" src="icons/firefoxbrowser.svg" />
 <img height="32" width="32" src="icons/git.svg" />
@@ -59,6 +59,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oddmagnet&show_icons=true" alt="oddmagnet" /></p>
 
+[icons]: https://github.com/OddMagnet/OddMagnet/blob/master/icons
 [website]: https://oddmagnet.github.io/
 [twitter]: https://twitter.com/OddMagnetDev
 [mail]: mailto:oddmagnetdev@gmail.com
