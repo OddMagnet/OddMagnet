@@ -52,6 +52,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Some notes on pattern matching in Swift](https://oddmagnet.github.io/blog/Some%20notes%20on%20pattern%20matching%20in%20Swift)
+- [Xcode Commands and Tipps](https://oddmagnet.github.io/blog/Xcode%20Commands%20and%20Tipps)
+- [Splash Test](https://oddmagnet.github.io/blog/Splash%20Test)
+- [Debugging Techniques](https://oddmagnet.github.io/blog/Debugging)
 <!-- BLOG-POST-LIST:END -->
 
 ---
