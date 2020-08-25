@@ -57,9 +57,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddmagnet&layout=compact&hide=html" alt="oddmagnet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oddmagnet&show_icons=true" alt="oddmagnet" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oddmagnet&show_icons=true" alt="oddmagnet" /></p>
 
 [website]: https://oddmagnet.github.io/
 [twitter]: https://twitter.com/OddMagnetDev
