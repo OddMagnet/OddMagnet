@@ -10,41 +10,41 @@
 ### Connect with me:
 
 [<img align="left" alt="oddmagnet.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="OddMagnet | Twitter" width="22px" src="icons/twitter.svg" />][twitter]
-[<img align="left" alt="OddMagnet | Email" width="22px" src="icons/gmail.svg" />][mail]
+[<img align="left" alt="OddMagnet | Twitter" width="22px" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/twitter.svg" />][twitter]
+[<img align="left" alt="OddMagnet | Email" width="22px" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/gmail.svg" />][mail]
 
 <br />
 
 ### Languages and Tools:
 
 **iOS** 
-<img height="32" width="32" src="icons/xcode.svg" />
-<img height="32" width="32" src="icons/swift.svg" />
-<img height="32" width="32" src="icons/swiftui.png" />
-<img height="32" width="32" src="icons/icloud.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/xcode.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/swift.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/swiftui.png" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/icloud.svg" />
 
 **Web**
-<img height="32" width="32" src="icons/html5.svg" />
-<img height="32" width="32" src="icons/css3.svg" />
-<img height="32" width="32" src="icons/javascript.svg" />
-<img height="32" width="32" src="icons/typescript.svg" />
-<img height="32" width="32" src="icons/fontawesome.svg" />
-<img height="32" width="32" src="icons/node-dot-js.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/html5.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/css3.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/javascript.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/typescript.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/fontawesome.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/node-dot-js.svg" />
 
 **Tools**
-<img height="32" width="32" src="[icons]/atom.svg" />
-<img height="32" width="32" src="icons/visualstudiocode.svg" />
-<img height="32" width="32" src="icons/firefoxbrowser.svg" />
-<img height="32" width="32" src="icons/git.svg" />
-<img height="32" width="32" src="icons/github.svg" />
-<img height="32" width="32" src="icons/homebrew.svg" />
-<img height="32" width="32" src="icons/markdown.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/atom.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/firefoxbrowser.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/git.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/github.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/homebrew.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/markdown.svg" />
 
 **Resources**
-<img height="32" width="32" src="icons/freecodecamp.svg" />
-<img height="32" width="32" src="icons/stackoverflow.svg" />
-![Hacking with Swift](icons/hacking-with-swift.png)
-![Apple Developer Forums](icons/appledevforums.png)
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/freecodecamp.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/stackoverflow.svg" />
+![Hacking with Swift](https://github.com/OddMagnet/OddMagnet/blob/master/icons/hacking-with-swift.png)
+![Apple Developer Forums](https://github.com/OddMagnet/OddMagnet/blob/master/icons/appledevforums.png)
 
 <br />
 <br />
@@ -59,7 +59,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oddmagnet&show_icons=true" alt="oddmagnet" /></p>
 
-[icons]: https://github.com/OddMagnet/OddMagnet/blob/master/icons
 [website]: https://oddmagnet.github.io/
 [twitter]: https://twitter.com/OddMagnetDev
 [mail]: mailto:oddmagnetdev@gmail.com
