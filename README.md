@@ -1,18 +1,52 @@
 ### Hi there, I'm Michael - aka [OddMagnet][website] 👋
 
-## I'm a iOS Developer, Music Enthusiast, Photographer, and all-around Nerd!
+## an iOS Developer, Music Enthusiast, Photographer, and all-around Nerd!
 - 🔭 I’m currently working on a [my portfolio site][website]!
 - 🌱 I’m currently learning everything related to SwiftUI
 - 👨🏼‍💻 I’m looking for a job as a iOS developer
-- 🥅 2020 Goals: Create an app worth of submitting to the appstore
+- 🥅 2020 Goals: Create an app worth of submitting to the Appstore
 - ⚡ Dogs or Cats?: Dogs 🐕
 
 ### Connect with me:
 
 [<img align="left" alt="oddmagnet.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="OddMagnet | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="OddMagnet | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="OddMagnet | Twitter" width="22px" src="icons/twitter.svg" />][twitter]
+[<img align="left" alt="OddMagnet | Email" width="22px" src="icons/gmail.svg" />][mail]
 
+<br />
+
+### Languages and Tools:
+
+**iOS** 
+<img height="32" width="32" src="icons/xcode.svg" />
+<img height="32" width="32" src="icons/swift.svg" />
+<img height="32" width="32" src="icons/swiftui.png" />
+<img height="32" width="32" src="icons/icloud.svg" />
+
+**Web**
+<img height="32" width="32" src="icons/html5.svg" />
+<img height="32" width="32" src="icons/css3.svg" />
+<img height="32" width="32" src="icons/javascript.svg" />
+<img height="32" width="32" src="icons/typescript.svg" />
+<img height="32" width="32" src="icons/fontawesome.svg" />
+<img height="32" width="32" src="icons/node-dot-js.svg" />
+
+**Tools**
+<img height="32" width="32" src="icons/atom.svg" />
+<img height="32" width="32" src="icons/visualstudiocode.svg" />
+<img height="32" width="32" src="icons/firefoxbrowser.svg" />
+<img height="32" width="32" src="icons/git.svg" />
+<img height="32" width="32" src="icons/github.svg" />
+<img height="32" width="32" src="icons/homebrew.svg" />
+<img height="32" width="32" src="icons/markdown.svg" />
+
+**Resources**
+<img height="32" width="32" src="icons/freecodecamp.svg" />
+<img height="32" width="32" src="icons/stackoverflow.svg" />
+![Hacking with Swift](icons/hacking-with-swift.png)
+![Apple Developer Forums](icons/appledevforums.png)
+
+<br />
 <br />
 
 ---
@@ -23,7 +57,9 @@
 
 ---
 
-<img align="left" alt="OddMagnet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OddMagnet&show_icons=true&hide_border=true" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddmagnet&layout=compact&hide=html" alt="oddmagnet" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oddmagnet&show_icons=true" alt="oddmagnet" /></p>
 
 [website]: https://oddmagnet.github.io/
 [twitter]: https://twitter.com/OddMagnetDev
