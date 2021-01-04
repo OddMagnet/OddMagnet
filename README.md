@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [my portfolio site][website]!
 - 🌱 I’m currently learning everything related to SwiftUI
 - 👨🏼‍💻 I’m looking for a job as a iOS developer
-- 🥅 2020 Goals: Create an app worth of submitting to the Appstore
+- 🥅 2021 Goals: Create an app worth of submitting to the Appstore
 - ⚡ Dogs or Cats?: Dogs 🐕
 
 ### Connect with me:
