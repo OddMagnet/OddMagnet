@@ -1,4 +1,4 @@
-### Hi there, I'm Michael - aka [OddMagnet][website] 👋
+### Hi there, I'm Michael - aka OddMagnet 👋
 
 ## an iOS Developer, Music Enthusiast, Photographer, and all-around Nerd!
 - 🔭 I’m currently working on a website!
