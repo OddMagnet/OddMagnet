@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="oddmagnet.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="OddMagnet | Twitter" width="22px" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/twitter.svg" />][twitter]
 [<img align="left" alt="OddMagnet | Email" width="22px" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/gmail.svg" />][mail]
 
