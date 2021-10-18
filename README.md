@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael - aka [OddMagnet][website] 👋
 
 ## an iOS Developer, Music Enthusiast, Photographer, and all-around Nerd!
-- 🔭 I’m currently working on a [my portfolio site][website]!
+- 🔭 I’m currently working on a website!
 - 🌱 I’m currently learning everything related to SwiftUI
 - 👨🏼‍💻 I’m looking for a job as a iOS developer
 - 🥅 2021 Goals: Create an app worth of submitting to the Appstore
@@ -50,18 +50,5 @@
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [On being lazy (lazy loading in Swift)](https://oddmagnet.github.io/blog/On%20being%20lazy%20(lazy%20loading%20in%20Swift))
-- [Some notes on pattern matching in Swift](https://oddmagnet.github.io/blog/Some%20notes%20on%20pattern%20matching%20in%20Swift)
-- [Xcode Commands and Tipps](https://oddmagnet.github.io/blog/Xcode%20Commands%20and%20Tipps)
-- [Splash Test](https://oddmagnet.github.io/blog/Splash%20Test)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oddmagnet&show_icons=true" alt="oddmagnet" /></p>
-
-[website]: https://oddmagnet.github.io/
 [twitter]: https://twitter.com/OddMagnetDev
 [mail]: mailto:oddmagnetdev@gmail.com
