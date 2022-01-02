@@ -1,10 +1,10 @@
 ### Hi there, I'm Michael - aka OddMagnet 👋
 
 ## an iOS Developer, Music Enthusiast, Photographer, and all-around Nerd!
-- 🔭 I’m currently working on a website!
-- 🌱 I’m currently learning everything related to SwiftUI
+- 🔭 I’m currently working on my project tracking app!
+- 🌱 I’m currently learning everything related to Swift & SwiftUI
 - 👨🏼‍💻 I’m looking for a job as a iOS developer
-- 🥅 2021 Goals: Create an app worth of submitting to the Appstore
+- 🥅 2022 Goals: Create an app worth of submitting to the Appstore
 - ⚡ Dogs or Cats?: Dogs 🐕
 
 ### Connect with me:
@@ -22,18 +22,8 @@
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/swiftui.png" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/icloud.svg" />
 
-**Web**
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/html5.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/css3.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/javascript.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/typescript.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/fontawesome.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/node-dot-js.svg" />
-
 **Tools**
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/atom.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/visualstudiocode.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/firefoxbrowser.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/git.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/github.svg" />
 <img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/homebrew.svg" />
