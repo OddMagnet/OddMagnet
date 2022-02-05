@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael - aka OddMagnet 👋
 
 ## an iOS Developer, Music Enthusiast, Photographer, and all-around Nerd!
-- 🔭 I’m currently working on my project tracking app!
+- 🔭 I’m currently working on my project tracking app and my website!
 - 🌱 I’m currently learning everything related to Swift & SwiftUI
 - 👨🏼‍💻 I’m looking for a job as a iOS developer
 - 🥅 2022 Goals: Create an app worth of submitting to the Appstore
