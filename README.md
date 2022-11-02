@@ -1,9 +1,9 @@
 ### Hi there, I'm Michael - aka OddMagnet 👋
 
 ## an iOS Developer, Music Enthusiast, Photographer, and all-around Nerd!
-- 🔭 I’m currently working on my project tracking app and my website!
-- 🌱 I’m currently learning everything related to Swift & SwiftUI
+- 🔭 I’m currently working on... nothing programming related. All my free time is currently invested in the gym :D
 - ⚡ Dogs or Cats?: Dogs 🐕
+- I'm bad at these kinds of posts :o 
 
 ### Connect with me:
 
@@ -38,4 +38,4 @@
 ---
 
 [twitter]: https://twitter.com/OddMagnetDev
-[mail]: mailto:oddmagnetdev@gmail.com
+[mail]: mailto:michael@oddmagnet.dev
