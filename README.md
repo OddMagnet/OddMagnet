@@ -1,41 +1,15 @@
-### Hi there, I'm Michael - aka OddMagnet 👋
+## Michael Brünen — Senior iOS Engineer
 
-## an iOS Developer, Music Enthusiast, Photographer, and all-around Nerd!
-- 🔭 I’m currently working on... nothing programming related. All my free time is currently invested in the gym :D
-- ⚡ Dogs or Cats?: Dogs 🐕
-- I'm bad at these kinds of posts :o 
+I build native iOS apps in Swift and SwiftUI — currently the mobility and ticketing
+apps of Hamburger Hochbahn AG (HVV Switch, ~2.5M users), where I work on ticketing
+and purchase flows, migrating a grown UIKit codebase to SwiftUI, and accessibility.
 
-### Connect with me:
+Most of my work lives in closed source. What's here is experiments, minimal
+reproducible examples, and things I built while learning.
 
-[<img align="left" alt="OddMagnet | Twitter" width="22px" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/twitter.svg" />][twitter]
-[<img align="left" alt="OddMagnet | Email" width="22px" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/gmail.svg" />][mail]
+**Working with:** Swift · Swift Concurrency · SwiftUI · UIKit · TCA · Combine ·
+XCTest / Swift Testing / Snapshot Testing
 
-<br />
+Based in Salzbergen, Germany — working fully remote since 2022.
 
-### Languages and Tools:
-
-**iOS** 
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/xcode.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/swift.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/swiftui.png" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/icloud.svg" />
-
-**Tools**
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/visualstudiocode.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/git.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/github.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/homebrew.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/markdown.svg" />
-
-**Resources**
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/freecodecamp.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/stackoverflow.svg" />
-![Hacking with Swift](https://github.com/OddMagnet/OddMagnet/blob/master/icons/hacking-with-swift.png)
-![Apple Developer Forums](https://github.com/OddMagnet/OddMagnet/blob/master/icons/appledevforums.png) 
-
-<br>
-
----
-
-[twitter]: https://twitter.com/OddMagnetDev
-[mail]: mailto:michael@oddmagnet.dev
+📫 michael@bruenen.cloud · [LinkedIn](https://linkedin.com/in/michael-bruenen)
